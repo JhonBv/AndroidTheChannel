@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="app_logo">The Channel Logo</string>
+    <string name="app_main_img">The Channel persona</string>
+    <string name="app_mic">The Channel microphone</string>
+    <string name="app_playmsg">The Channel play recorded msg</string>
+    <string name="app_stop">The Channel stop recording</string>
+    <string name="app_send">The Channel send message</string>
+
+    <string name="app_adminbtn">Admin</string>
+
+    <string name="app_locbuttonin">Detention centre</string>
+    <string name="app_locbuttonout">UK, outside detention centre</string>
+
+
+    <string name="app_locationtext">set location</string>
+    <string name="app_adminbackbtn">Back to messages</string>
+    <string name="title_activity_admin">AdminActivity</string>
+
+    <string name="baseUrlAddressLogin">http://thechannel.azurewebsites.net/oauth2/Token</string>
+</resources>
