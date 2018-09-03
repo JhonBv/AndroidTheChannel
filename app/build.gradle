@@ -31,12 +31,5 @@ dependencies {
     implementation group: 'org.apache.httpcomponents', name: 'httpclient-android', version: '4.3.5.1'
     implementation "cz.msebera.android:httpclient:4.4.1.2"
 
-    def appCenterSdkVersion = '1.8.0'
-    implementation "com.microsoft.appcenter:appcenter-analytics:${appCenterSdkVersion}"
-    implementation "com.microsoft.appcenter:appcenter-crashes:${appCenterSdkVersion}"
-    implementation "com.microsoft.appcenter:appcenter-push:${appCenterSdkVersion}"
-
-    implementation 'com.google.firebase:firebase-core:16.0.1'
-
 }
-apply plugin: 'com.google.gms.google-services'
+
