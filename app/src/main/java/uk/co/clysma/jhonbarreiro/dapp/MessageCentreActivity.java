@@ -37,7 +37,7 @@ public class MessageCentreActivity extends AppCompatActivity {
                 msgSent.setVisibility(View.VISIBLE);
                 break;
             case "deleted":
-                msgDeleted.setVisibility(View.VISIBLE);
+                msgDeleted.setVisibility(View.VISIBLE );
                 break;
 
         }
